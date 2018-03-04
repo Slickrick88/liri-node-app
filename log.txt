@@ -1,0 +1,131 @@
+
+------------ Tweet-1----------------
+@TheRickBlake: @DrRandPaul keep it up sir. I'm pretty liberal but fiscally conservative and appreciate you sticking to your guns a… https://t.co/Vk8P5IkmZr
+Fri Feb 09 02:33:09 +0000 2018
+
+------------ Tweet-2----------------
+@TheRickBlake: @SpaceX Feels goog to be inspired by something positive! Thank you @SpaceX and @elonmusk truely inspirational and f… https://t.co/Rmochre1X7
+Tue Feb 06 21:14:44 +0000 2018
+
+------------ Tweet-3----------------
+@TheRickBlake: RT @SpaceX: Falcon Heavy side cores have landed at SpaceX’s Landing Zones 1 and 2. https://t.co/oMBqizqnpI
+Tue Feb 06 21:12:35 +0000 2018
+
+------------ Tweet-4----------------
+@TheRickBlake: @neiltyson Can light escape the event horizon of a singularity?
+Wed Jan 17 18:10:46 +0000 2018
+
+------------ Tweet-5----------------
+@TheRickBlake: By far one of the coolest things I've ever seen. Ground control to major Tom. https://t.co/gK6AsyTEXU
+Sat Dec 23 15:06:26 +0000 2017
+
+------------ Tweet-6----------------
+@TheRickBlake: RT @NelsonMRosario: My dad lives on the island. I shared the President's response with him this morning. He wanted me to share one anecdote…
+Sun Oct 01 13:23:40 +0000 2017
+
+------------ Tweet-7----------------
+@TheRickBlake: @katie_levans Hopefully Charlotte is swinging for the fences on this one
+Mon Sep 11 19:58:45 +0000 2017
+
+------------ Tweet-8----------------
+@TheRickBlake: @TBBuccaneers I hear your in my hometown of charlotte. Are you guys watching the games?
+Sun Sep 10 18:43:29 +0000 2017
+
+------------ Tweet-9----------------
+@TheRickBlake: @CNBC Trump should be able to tell us that for himself
+Sun Aug 20 13:05:06 +0000 2017
+
+------------ Tweet-10----------------
+@TheRickBlake: RT @FortuneMagazine: California crops rot as immigration crackdown creates farmworker shortage https://t.co/XWKZPi32Sh
+Wed Aug 09 13:49:35 +0000 2017
+
+------------ Tweet-11----------------
+@TheRickBlake: @realDonaldTrump This is a disgrace to the flag and constitution @realDonaldTrump  swore to protect
+Wed Jul 26 22:32:45 +0000 2017
+
+------------ Tweet-12----------------
+@TheRickBlake: The northerners will never forget. #TeamStark
+Sun Jul 16 16:08:15 +0000 2017
+
+------------ Tweet-13----------------
+@TheRickBlake: https://t.co/Hp6ruT5N3V
+Good thing the US is focused on coal power production. Moving backward is never the best path forward.
+Fri Jul 14 12:44:20 +0000 2017
+
+------------ Tweet-14----------------
+@TheRickBlake: @CNBC Great news but would prefer to the lead exporter in solar panels, wind turbines and traveling wave reactors etc.
+Thu Jul 13 11:47:17 +0000 2017
+
+------------ Tweet-15----------------
+@TheRickBlake: @FordService Sent it this morning
+Wed Jun 14 17:32:13 +0000 2017
+
+------------ Tweet-16----------------
+@TheRickBlake: @jacqueowen @Ford Depending on your state look into forcing a lemon law buyback. Also register your complaint with the BBB
+Wed Jun 14 17:31:22 +0000 2017
+
+------------ Tweet-17----------------
+@TheRickBlake: @Ford my brand new edge sport with about 6000 miles has been in the shop for 15 days for new engine. #lemonlaw
+Tue Jun 13 21:20:20 +0000 2017
+
+------------ Tweet-18----------------
+@TheRickBlake: Thought of the week. If there are over 300 million people in the US with infinite  opinions then why only 2 political parties?
+Sun Jun 11 01:59:48 +0000 2017
+
+------------ Tweet-19----------------
+@TheRickBlake: @realDonaldTrump We're also not talking about nukes, pickles or smallpox because they didn't use those but 2 of those are still dangerous.
+Sun Jun 04 18:08:09 +0000 2017
+
+------------ Tweet-20----------------
+@TheRickBlake: Do not sign up for AT&amp;T FIBER  there service is unreliable.  you can break your contract for free  30 days after your contract date. 
+@ATT
+Sat Jun 03 11:25:45 +0000 2017
+
+------------ Movie-----------------
+Movie Title: The Goonies
+Movie Year: 1985
+IMBD Movie Rating: 7.8
+Rotten Tomatoes Rating: 70%
+Country where it was made: USA
+Language: English, Spanish, Cantonese, Italian
+Plot: In order to save their home from foreclosure, a group of misfits set out to find a pirate's ancient valuable treasure.
+Actors: Sean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
+------------ Movie-----------------
+Movie Title: Mr. Nobody
+Movie Year: 2009
+IMBD Movie Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country where it was made: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+------------1-----------
+Artists 1 Name: Killswitch Engage
+Song Name: My Last Serenade
+Shortcut: https://api.spotify.com/v1/tracks/3uXR8I4kT1WtvtHTEj4ZHG
+Album Name: Alive or Just Breathing
+
+------------3-----------
+Artists 1 Name: Killswitch Engage
+Song Name: My Last Serenade (Live)
+Shortcut: https://api.spotify.com/v1/tracks/7qSTsqPewF3qQ4hKaIZhWy
+Album Name: The End Of Heartache [Special Edition]
+
+------------5-----------
+Artists 1 Name: Death Audio
+Song Name: My Last Serenade
+Shortcut: https://api.spotify.com/v1/tracks/2PPoTclnYUsSHECKetikpA
+Album Name: My Last Serenade
+
+------------4-----------
+Artists 1 Name: Killswitch Engage
+Song Name: My Last Serenade
+Shortcut: https://api.spotify.com/v1/tracks/4Svf8fYgTJHhdM1IjPuo0L
+Album Name: XXX: Three Decades Of Roadrunner Records
+
+------------2-----------
+Artists 1 Name: Killswitch Engage
+Song Name: My Last Serenade
+Shortcut: https://api.spotify.com/v1/tracks/2Ps4FrDiR6JcJfSZbXAPBz
+Album Name: Alive or Just Breathing [Topshelf Edition]

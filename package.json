@@ -1,0 +1,33 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri homework for UNCC coding bootcamp",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slickrick88/liri-node-app.git"
+  },
+  "keywords": [
+    "twitter",
+    "spotify",
+    "request",
+    "DotEnv"
+  ],
+  "author": "Rick Blake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Slickrick88/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Slickrick88/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
